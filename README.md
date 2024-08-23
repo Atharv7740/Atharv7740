@@ -9,25 +9,22 @@ Hello, World! 🌍 Welcome to my GitHub profile! I'm a passionate Full Stack Dev
 
 - **Frontend**: 
   - React.js ⚛️
-  - Vue.js 🖼️
+  - Angular.js 🖼️
   - HTML5 & CSS3 🎨
   - JavaScript (ES6+) 🟨
   - TypeScript 🚀
   
 - **Backend**: 
   - Node.js + Express.js 🟩
-  - Django 🐍
-  - Ruby on Rails 💎
-  - RESTful & GraphQL APIs 🔗
+  - RESTful APIs 🔗
 
 - **Database**:
-  - PostgreSQL 🐘
+ 
   - MongoDB 🍃
   - MySQL 🛢️
 
 - **DevOps**:
-  - Docker 🐳
-  - Kubernetes ☸️
+  
   - AWS ☁️
   - CI/CD Pipelines 🚚
 
