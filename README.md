@@ -14,33 +14,12 @@
 
 <h4 align="left">About me<br><br>- 🔭 I’m currently working on VLC media player.<br><br>- 🌱 I’m currently learning  NextJs<br><br>- 🤝 I’m looking for help with  Open source projects <br><br>- 💬 Ask me about  Full stack development.<br><br>- 📫 How to reach me atharv7740@gmail.com</h4>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=atharv7740.atharv7740&left_text=Profile%20Visit"  />
-</div>
+<br>
 
 ###
+<h3>Tech Stack</h3>
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharv7740&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <!-- <img src="https://streak-stats.demolab.com?user=atharv7740&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv7740&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharv7740&area=true&theme=react" height="150" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=atharv7740&no-bg=false" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<h5 align="left"></h5>
-
-###
-
-<br clear="both">
-
-<div align="center">
+<div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -71,4 +50,32 @@
 </div>
 
 
+
+
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=atharv7740.atharv7740&left_text=Profile%20Visit"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=atharv7740&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <!-- <img src="https://streak-stats.demolab.com?user=atharv7740&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv7740&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharv7740&area=true&theme=react" height="150" alt="activity-graph graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=atharv7740&no-bg=false" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<h5 align="left"></h5>
+
+###
+
+<br clear="both">
 
