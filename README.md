@@ -52,13 +52,13 @@
 
 ###
 
-<h3>Projects</h3>
+<!-- <h3>Projects</h3>
 
 <ul>
   <li><strong>Project 1:</strong> <a href="https://github.com/atharv7740/project1">Project 1 Repository</a> - A brief description of what this project is about.</li>
   <li><strong>Project 2:</strong> <a href="https://github.com/atharv7740/project2">Project 2 Repository</a> - A brief description of what this project is about.</li>
   <li><strong>Project 3:</strong> <a href="https://github.com/atharv7740/project3">Project 3 Repository</a> - A brief description of what this project is about.</li>
-</ul>
+</ul> -->
 
 ###
 
