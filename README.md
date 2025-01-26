@@ -2,6 +2,7 @@
   <img height="200" src='Linkedin banner.png'  />
 </div>
 
+
 ###
 
 <h3 align="left">Hi 👋! My name is Atharv Tripathi.</h3>
@@ -12,7 +13,7 @@
 
 
 
-<h4 align="left">About me<br><br>- 🔭 I’m currently working on VLC media player.<br><br>- 🌱 I’m currently learning  NextJs<br><br>- 🤝 I’m looking for help with  Open source projects <br><br>- 💬 Ask me about  Full stack development.<br><br>- 📫 How to reach me atharv7740@gmail.com</h4>
+<h4 align="left">About me<br><br>- 🔭 I’m currently working on VLC media player.<br><br>- 🌱 I’m currently learning  NextJs<br><br>- 🤝 I’m looking for help with  Open source projects <br><br>- 💬 Ask me about  Full stack development.<br><br>- 📫 How to reach me atharv7740@gmail.com<br><br>- ⚡ Fun fact: I love playing chess and solving puzzles.</h4>
 
 <br>
 
@@ -49,9 +50,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
 </div>
 
+###
 
+<h3>Projects</h3>
 
-
+<ul>
+  <li><strong>Project 1:</strong> <a href="https://github.com/atharv7740/project1">Project 1 Repository</a> - A brief description of what this project is about.</li>
+  <li><strong>Project 2:</strong> <a href="https://github.com/atharv7740/project2">Project 2 Repository</a> - A brief description of what this project is about.</li>
+  <li><strong>Project 3:</strong> <a href="https://github.com/atharv7740/project3">Project 3 Repository</a> - A brief description of what this project is about.</li>
+</ul>
 
 ###
 
