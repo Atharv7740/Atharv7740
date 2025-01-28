@@ -50,17 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
 </div>
 
-###
 
-<!-- <h3>Projects</h3>
-
-<ul>
-  <li><strong>Project 1:</strong> <a href="https://github.com/atharv7740/project1">Project 1 Repository</a> - A brief description of what this project is about.</li>
-  <li><strong>Project 2:</strong> <a href="https://github.com/atharv7740/project2">Project 2 Repository</a> - A brief description of what this project is about.</li>
-  <li><strong>Project 3:</strong> <a href="https://github.com/atharv7740/project3">Project 3 Repository</a> - A brief description of what this project is about.</li>
-</ul> -->
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=atharv7740.atharv7740&left_text=Profile%20Visit"  />
@@ -72,7 +62,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=atharv7740&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <!-- <img src="https://streak-stats.demolab.com?user=atharv7740&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  /> -->
+  <img src="https://streak-stats.demolab.com?user=atharv7740&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv7740&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharv7740&area=true&theme=react" height="150" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=atharv7740&no-bg=false" height="150" alt="trophy graph"  />
