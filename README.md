@@ -1,8 +1,3 @@
-<div align="center">
-  <img height="200" src='Linkedin banner.png'  />
-</div>
-
-
 ###
 
 <h3 align="left">Hi 👋! My name is Atharv Tripathi.</h3>
