@@ -1,73 +1,15 @@
-###
+### Atharv Tripathi
 
-<h3 align="left">Hi 👋! My name is Atharv Tripathi.</h3>
+Software engineer at [KwikMedi](https://www.kwikmedi.in), a healthtech marketplace in Gurugram.
+I work on the backend that orders and payments run on: the medicine order lifecycle,
+pharmacy allocation, Razorpay payments and wallets, and the AWS infrastructure behind them.
 
-###
+**Selected work**
 
-<h4 align="left">A passionate Full Stack Developer from New Delhi, India.</h4>
+- [**SpotifyCares**](https://github.com/Atharv7740/SpotifyCares): LLM support agent that classifies tweets, drafts RAG-grounded replies and decides when to escalate. 0.79 intent accuracy against 0.48 for a BM25 baseline, on a hand-labelled golden set.
+- [**Vistream**](https://github.com/Atharv7740/Vistream): subscription video streaming with idempotent Razorpay webhooks and private S3 storage served through pre-signed URLs.
+- [**TransportPro**](https://github.com/Atharv7740/Inventory-management-system): operations dashboard for a transport business, covering trip profitability and truck inventory.
 
+**Stack:** Python, Flask, TypeScript, Node.js, React, Next.js, MySQL, PostgreSQL, MongoDB, Redis, AWS (ECS Fargate, RDS, S3, SQS, CloudFront), Terraform, Docker
 
-
-<h4 align="left">About me<br><br>- 🔭 I’m currently working on VLC media player.<br><br>- 🌱 I’m currently learning  NextJs<br><br>- 🤝 I’m looking for help with  Open source projects <br><br>- 💬 Ask me about  Full stack development.<br><br>- 📫 How to reach me atharv7740@gmail.com<br><br>- ⚡ Fun fact: I love playing chess and solving puzzles.</h4>
-
-<br>
-
-###
-<h3>Tech Stack</h3>
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
-</div>
-
-
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=atharv7740.atharv7740&left_text=Profile%20Visit"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atharv7740&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=atharv7740&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharv7740&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atharv7740&area=true&theme=react" height="150" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=atharv7740&no-bg=false" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<h5 align="left"></h5>
-
-###
-
-<br clear="both">
-
+**Contact:** [work.atharvtripathi@gmail.com](mailto:work.atharvtripathi@gmail.com) · [LinkedIn](https://www.linkedin.com/in/atharvxdev/)
